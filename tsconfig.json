@@ -1,4 +1,5 @@
 {
+  "name": "react-typescript-graphql-swapi",
   "compilerOptions": {
     "target": "es5",
     "lib": [
